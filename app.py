@@ -25,7 +25,7 @@ def math_operation():
 
         if(ops == 'multiply'):
              r = num1*num2
-             result = 'the multiply of   ' + str(num1) + ' and  ' +str(num2) + '  is  '+str(r)  
+             result = 'the multiply of   ' + str(num1) + ' and  ' +str(num2) + '  is  '+str(r)   
 
 
         if(ops == 'divide'):
